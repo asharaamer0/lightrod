@@ -1,0 +1,7 @@
+.tools/
+dist/
+build/
+**/build/
+**/.vs/
+**/.idea/
+*.user
